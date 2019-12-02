@@ -55,7 +55,6 @@ int pop_list(node *list)
 
 void del(node *list, int data)
 {
-    printf("####Entered");
     node *temp;
 
     if(list->next != NULL)
@@ -487,7 +486,7 @@ int main()
         printf("\n\t\t-----------------------------------------------");
 
         printf("\n\n\t\t### Railway Automated Platform Allocation System ###");
-        printf("\n\t\t\t%s\n", sname);
+        printf("\n\n\t\t\t%s\n", sname);
 
         printf("\n\t\t\tMENU");
         printf("\n\t\t\t1 => Record Arrival");
