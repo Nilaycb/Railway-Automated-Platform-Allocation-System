@@ -7,19 +7,19 @@ The system keeps track of platform availability status as well as the trains tha
 
 
 # Snapshots
-Record Arrival
+* Record Arrival
 ![Snapshot 1](1.PNG)
 
-Additional arrivals are saved in the allocation request list.
+* Additional arrivals are saved in the allocation request list. <br />
 ![Snapshot 2](2.PNG)
 
-Status of Platforms
+* Status of Platforms <br />
 ![Snapshot 3](3.PNG)
 
-Allocation Request List
+* Allocation Request List <br />
 ![Snapshot 4](4.PNG)
 
-Deallocation of Platform
+* Deallocation of Platform <br />
 ![Snapshot 5](5.PNG)
 
 
