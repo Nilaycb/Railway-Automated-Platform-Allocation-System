@@ -17,7 +17,7 @@ The system keeps track of platform availability status as well as the trains tha
 ![Snapshot 2](2.PNG)
 <br /><br />
 
-* Status of Platforms <br />
+* Status of Platforms <br /><br />
 ![Snapshot 3](3.PNG)
 <br /><br />
 
