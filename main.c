@@ -428,7 +428,7 @@ int main()
     printf("\n\t\t-----------------------------------------------");
 
     printf("\n\n\t\t### Railway Automated Platform Allocation System ###");
-    printf("\\n\n\t\t\t%s %d\n", sname, no_of_plt);
+    printf("\\n\n\t\t\t%s\n", sname);
 
     printf("\n\t\t\tMENU");
     printf("\n\t\t\t1 => Record Arrival");
@@ -487,7 +487,7 @@ int main()
         printf("\n\t\t-----------------------------------------------");
 
         printf("\n\n\t\t### Railway Automated Platform Allocation System ###");
-        printf("\n\t\t\t%s %d\n", sname, no_of_plt);
+        printf("\n\t\t\t%s\n", sname);
 
         printf("\n\t\t\tMENU");
         printf("\n\t\t\t1 => Record Arrival");
