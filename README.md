@@ -2,25 +2,32 @@
 A simple railway automated platform allocation system written in C.
 
 
+
 # Overview
 The system keeps track of platform availability status as well as the trains that are requesting for allocation of the platform.
 
 
+
 # Snapshots
-* Record Arrival
+* Record Arrival <br />
 ![Snapshot 1](1.PNG)
+
 
 * Additional arrivals are saved in the allocation request list. <br />
 ![Snapshot 2](2.PNG)
 
+
 * Status of Platforms <br />
 ![Snapshot 3](3.PNG)
+
 
 * Allocation Request List <br />
 ![Snapshot 4](4.PNG)
 
+
 * Deallocation of Platform <br />
 ![Snapshot 5](5.PNG)
+
 
 
 # License
